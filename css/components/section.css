@@ -1,0 +1,66 @@
+.banner-section {
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 250px;
+}
+
+.banner-section h1 {
+  color: white;
+}
+
+.banner-section p {
+  color: grey;
+  margin-bottom: 40px;
+}
+
+.banner-section a {
+  color: white;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+}
+
+
+
+
+
+.how-it-works-section {
+  background-color: white;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.how-it-works-section img {
+  width: 100px;
+}
+
+.how-it-works-section .card {
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  height: 280px;
+  width: 220px;
+  margin: 0 20px;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 3px;
+}
+
+
+
+
+.footer-section {
+  background-color: #303030;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.footer-section p {
+  color: grey;
+}
